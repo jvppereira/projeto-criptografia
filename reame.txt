@@ -1,0 +1,5 @@
+Dentro da src tem as classes...
+uma delas é a interface grafica (tela), outra a main para executar o programa, e a Words tem os metodos getters e setters junto com criptografar
+a interface contem criptar e decriptar
+
+video de funcionamento dele: teste.mp4
